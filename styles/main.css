@@ -14,6 +14,8 @@ thead th {
 
 }
 
+
+
 td {
     color: white !important;
 }
@@ -35,7 +37,15 @@ ul{
 /* Text */
 body {
     font-family: 'Quicksand', sans-serif !important;
+    
 }
+.body-brown {
+    background: url("../Untitled-1.png") 10% 10% repeat !important; 
+    background-repeat: repeat !important;
+    background-size: cover !important;
+}
+
+
 
 .body-light-blue {
     color: #8EADC2 !important;
