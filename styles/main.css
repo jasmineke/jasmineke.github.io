@@ -34,15 +34,38 @@ ul{
     bottom:0 !important;
 }
 
+html{
+  /* overflow: auto; */
+  height: 100%;
+  box-sizing: border-box;
+    overflow: hidden;
+}
+
+
 /* Text */
 body {
     font-family: 'Quicksand', sans-serif !important;
+    /* overscroll-behavior: contain; */
+    background-color: #4D322C;
+    overflow-wrap: break-word;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    overscroll-behavior-x: contain;
     
+}
+#body
+{
+ background-image: linear-gradient(to right, #cfc 0%, #cfc 79%, #afa calc(79% + 4px), #afa 100%);
+ display: flex;
+ order: 2;
+ overflow: auto;
 }
 .body-brown {
     background: url("../Untitled-1.png") 10% 10% repeat !important; 
     background-repeat: repeat !important;
     background-size: cover !important;
+    /* overflow: hidden !important; */
 }
 
 
