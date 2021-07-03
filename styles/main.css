@@ -161,6 +161,14 @@ h3 {
   font-size:2.6em !important;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
 .benne {
   font-family: 'Benne';
 }
@@ -168,6 +176,7 @@ h3 {
 .para {
   font-size: large;
 }
+
 
 /* ==================== */
 /* Colors */
