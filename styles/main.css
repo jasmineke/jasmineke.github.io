@@ -167,6 +167,7 @@ a {
 
 a:hover {
   text-decoration: none !important;
+  text-decoration-line: none !important;
 }
 
 .benne {
