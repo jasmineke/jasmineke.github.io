@@ -46,6 +46,11 @@ overflow: auto;
   background: #FFF8F1 !important; 
 }
 
+.invisi-text {
+  text-decoration: none;
+  color: transparent;
+}
+
 .margin-x {
   /* display: flex; */
   margin-left: 20em ;
@@ -56,11 +61,13 @@ overflow: auto;
   padding-top: 50px;
   padding-bottom: 15px;
   margin-bottom: 1em;
+  color: transparent !important;
   background-color: #FFF8F1;
   border: 1px solid black;
   border-radius: 3px;
   min-width: 150px;
 }
+
 .col-custom:hover {
   background-color: #AEBF99;
   color: white !important;
@@ -119,6 +126,30 @@ overflow: auto;
 }
 .logo {
   height:35px;
+}
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #AEBF99;
+}
+
+.hover-underline-animation:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #AEBF99;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 
