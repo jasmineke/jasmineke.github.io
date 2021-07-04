@@ -124,8 +124,26 @@ overflow: auto;
   border-right: 1px solid #AEBF99;
   position:relative;
 }
+
+.vertical-bp {
+  border-left: 1px solid #070369;
+  position:relative;
+  height: min-content;
+}
+
 .logo {
   height:35px;
+}
+.title-img {
+  /* height: 350px; */
+  align-items: center !important;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
 }
 
 .hover-underline-animation {
@@ -174,9 +192,14 @@ a:hover {
   font-family: 'Benne';
 }
 
+.title {
+  font-size: larger;
+}
+
 .para {
   font-size: large;
 }
+
 
 
 /* ==================== */
@@ -184,6 +207,9 @@ a:hover {
 
 .jasmine-green {
   color: #AEBF99;
+}
+.bp-blue {
+  color: #070369;
 }
 
 
