@@ -131,6 +131,11 @@ overflow: auto;
   height: min-content;
 }
 
+.vertical-bp-right {
+  border-right: 1px solid #070369;
+  position:relative;
+}
+
 .logo {
   height:35px;
 }
