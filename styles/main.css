@@ -2,9 +2,9 @@
 @font-face {
     font-family: 'Aeonik';
     src: url("../jasmineke.github.io/fonts/Aeonik-Light.otf") format("otf"),
-    url("../jasmineke.github.io/fonts/Aeonik-Regular.otf") format("otf")
-    url("../jasmineke.github.io/fonts/Aeonik-Medium.otf") format("otf")
-    url("../jasmineke.github.io/fonts/Aeonik-Bold.otf") format("otf")
+    url("../jasmineke.github.io/fonts/Aeonik-Regular.otf") format("otf"),
+    url("../jasmineke.github.io/fonts/Aeonik-Medium.otf") format("otf"),
+    url("../jasmineke.github.io/fonts/Aeonik-Bold.otf") format("otf"),
     url("../jasmineke.github.io/fonts/Aeonik-Black.otf") format("otf");
 }
 @font-face {
