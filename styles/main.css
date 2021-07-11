@@ -1,13 +1,13 @@
 /* hihi */
 @font-face {
     font-family: 'Aeonik';
-    src: url("../fonts/Aeonik-Light.otf") format("otf"),
-    url("../fonts/Aeonik-Air.otf") format("otf"),
-    url("../fonts/Aeonik-Thin.otf") format("otf"),
-    url("../fonts/Aeonik-Regular.otf") format("otf"),
-    url("../fonts/Aeonik-Medium.otf") format("otf"),
-    url("../fonts/Aeonik-Bold.otf") format("otf"),
-    url("../fonts/Aeonik-Black.otf") format("otf");
+    src: url("../fonts/Aeonik-Light.otf") format("opentype"),
+    url("../fonts/Aeonik-Air.otf") format("opentype"),
+    url("../fonts/Aeonik-Thin.otf") format("opentype"),
+    url("../fonts/Aeonik-Regular.otf") format("opentype"),
+    url("../fonts/Aeonik-Medium.otf") format("opentype"),
+    url("../fonts/Aeonik-Bold.otf") format("opentype"),
+    url("../fonts/Aeonik-Black.otf") format("opentype");
 }
 @font-face {
   font-family: 'Benne';
@@ -31,7 +31,7 @@ html{
 }
 
 body {
-  font-family: 'Aeonik', serif !important;
+  font-family: 'Aeonik';
   /* overscroll-behavior: contain; */
   overflow-wrap: break-word;
   overflow: auto;
