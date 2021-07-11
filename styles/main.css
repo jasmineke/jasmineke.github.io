@@ -1,15 +1,15 @@
 /* hihi */
 @font-face {
     font-family: 'Aeonik';
-    src: url("../jasmineke.github.io/fonts/Aeonik-Light.otf") format("otf"),
-    url("../jasmineke.github.io/fonts/Aeonik-Regular.otf") format("otf"),
-    url("../jasmineke.github.io/fonts/Aeonik-Medium.otf") format("otf"),
-    url("../jasmineke.github.io/fonts/Aeonik-Bold.otf") format("otf"),
-    url("../jasmineke.github.io/fonts/Aeonik-Black.otf") format("otf");
+    src: url("../fonts/Aeonik-Light.otf") format("otf"),
+    url("../fonts/Aeonik-Regular.otf") format("otf"),
+    url("../fonts/Aeonik-Medium.otf") format("otf"),
+    url("../fonts/Aeonik-Bold.otf") format("otf"),
+    url("../fonts/Aeonik-Black.otf") format("otf");
 }
 @font-face {
   font-family: 'Benne';
-  src: url("../jasmineke.github.io/fonts/Benne-Regular.ttf") format("ttf");
+  src: url("/fonts/Benne-Regular.ttf") format("ttf");
 }
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @keyframes example {
