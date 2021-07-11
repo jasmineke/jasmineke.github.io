@@ -31,7 +31,7 @@ html{
 }
 
 body {
-  font-family: 'Aeonik';
+  font-family: 'Aeonik' !important;
   /* overscroll-behavior: contain; */
   overflow-wrap: break-word;
   overflow: auto;
