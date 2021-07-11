@@ -1,11 +1,11 @@
 
 @font-face {
     font-family: 'Aeonik';
-    src: url("../fonts/Aeonik-Light.otf") format("otf");
+    src: url("../jasmineke.github.io/fonts/Aeonik-Light.otf") format("otf");
 }
 @font-face {
   font-family: 'Benne';
-  src: url("../fonts/Benne-Regular.otf") format("ttf");
+  src: url("../jasmineke.github.io/fonts/Benne-Regular.otf") format("ttf");
 }
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @keyframes example {
