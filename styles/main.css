@@ -9,7 +9,7 @@
 }
 @font-face {
   font-family: 'Benne';
-  src: url("../jasmineke.github.io/fonts/Benne-Regular.otf") format("otf");
+  src: url("../jasmineke.github.io/fonts/Benne-Regular.ttf") format("ttf");
 }
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 @keyframes example {
