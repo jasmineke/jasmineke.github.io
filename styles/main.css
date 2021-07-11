@@ -1,19 +1,25 @@
 /* hihi */
 @font-face {
     font-family: 'Aeonik';
-    src: url("../fonts/Aeonik-Regular.otf") format("opentype"),
-    url("../fonts/Aeonik-Air.otf") format("opentype"),
-    url("../fonts/Aeonik-Thin.otf") format("opentype"),
-    url("../fonts/Aeonik-Regular.otf") format("opentype"),
-    url("../fonts/Aeonik-Medium.otf") format("opentype"),
-    url("../fonts/Aeonik-Bold.otf") format("opentype"),
-    url("../fonts/Aeonik-Black.otf") format("opentype");
+    src: url("../fonts/Aeonik-Light.otf") format("opentype");
+    font-weight:300;
 }
 @font-face {
   font-family: "Aeonik";
   src: url("../fonts/Aeonik-Regular.otf") format("opentype");
   font-weight:400;
   font-style: normal;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url("../fonts/Aeonik-Medium.otf") format("opentype");
+  font-weight:500;
+}
+@font-face {
+  font-family: "Aeonik";
+  src: url("../fonts/Aeonik-Bold.otf") format("opentype");
+  font-weight:600;
+  font-style: bold;
 }
 @font-face {
   font-family: 'Benne';
