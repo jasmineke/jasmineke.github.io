@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="container">
+    <p>Blog description thingy!!! idk you can edit this</p>
+    {{ $posts := .GetPage "/posts" }}
+    {{ partial "post-list" $posts }}
+</div>
+{{ end }}

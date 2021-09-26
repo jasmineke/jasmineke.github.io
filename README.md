@@ -1,3 +1,3 @@
 # jasmineke.github.io
 
-hihi this is a wip
+Jasmine Ke's personal portfolio!

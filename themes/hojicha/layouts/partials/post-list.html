@@ -1,0 +1,9 @@
+<table id="post-list-table">
+{{- range .Pages -}}
+<tr>
+    <td>{{ partial "rel-date" .Date }}</td>
+    <td>&nbsp;&#8227;&nbsp;</td>
+    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+</tr>
+{{- end -}}
+</table>

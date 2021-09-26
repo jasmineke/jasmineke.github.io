@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="container">
+    <p>@Jasmine you should insert a funky cool bit of text to put here to show off your epic PERSONALITY</p>
+    {{ $works := .GetPage "/works" }}
+    {{ partial "post-list" $works }}
+</div>
+{{ end }}
