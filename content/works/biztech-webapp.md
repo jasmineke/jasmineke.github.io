@@ -82,7 +82,7 @@ I am in the process of updating my site. In the meantime, here is a gallery of s
 {{<br>}}
 ## What was the impact of this form?
 
-Although we were able to make many of the designs for the developer team while still on the team, I left the team before the web form was pushed out and readily usable to pursue other goals of mine. 
+Although we were able to make many of the designs for the developer team while still on the team, I left the team before the web form was pushed out and readily usable. 
 
 Today (October 16, 2021), UBC Biztech uses the form to register students for their many events. With over 150+ members and multiple events throughout the year garnering up to 250 students, Biztech's web form is used by students and faculty alike.
 
