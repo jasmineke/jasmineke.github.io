@@ -61,97 +61,31 @@ For the organizing team, there were concerns about our event forms being spread 
 
 ## How we used the database we had to optimize the form.
 
-We saw an opportunity to help to-be-moms that had food struggles. However, we didn't know if what value this would provide in the eyes of real moms -- which would require surveying and researching further. Because at the time constraints of the hackathon, we had to move on to implementation and skipped the opportunity to delve deeper.
+Seeing that we had a large database on previous years, we saw an opportunity to visualize this data and use it to make more informed decisions on our design. We found especially, that most of the students attending our events, heard of us through **Facebook** (around 53%) and signed up after following us or seeing an event post. This meant, most of the time, students had already seen the event description, got interested and wanted to sign up. 
 
-After the competition was over, I was still curious and wanted to see what value moms would see in this experience. I drafted a concept summary of our "picture upload" feature and sent it out to the moms I knew.
-
-![Food Baby opp](/images/foodbaby_opp.png#half-banner)
-
-{{<br>}}
-{{<br>}}
-
-## Low-Fidelity Prototype
-
-So after understanding a bit more, we set out to create the main user flows for this app: **search** and **upload**.
-
-![Food Baby opp](/images/foodbaby_searchdemo.gif#float-left)
-
-{{<br>}}
-{{<br>}}
-{{<h2 class="normal-weight" text="Searching for food">}}
-We wanted to incorporate a basic search function, since it was recognizable and a reliable feature in the case that people could not conveniently use the camera. Also, having a list made it easy to keep track of and "pre-plan" groceries
-
-{{<h2 class="normal-weight" text="Feedback">}}
-The main piece of feedback from my team (since I was working with our developers) was that the "check my food" menu that expands to "search", "upload" and "camera" felt like an extra interaction that wasn't really needed. So we kept this in mind for our next iterations. 
-
-{{<br>}}
-{{<br>}}
-{{<br>}}
-{{<br>}}
-{{<br>}}
-
-![Food Baby opp](/images/foodbaby_uploaddemo.gif#float-left)
-{{<br>}}
-
-{{<h2 class="medium-weight" text="Uploading photos">}}
- Our next piece of the puzzle was identifying foods based on a photo, making it clear to use and an enjoyable experience (hopefully). We decided to bypass the list step for photo uploads since users usually take a photo per item to decide, rather than collect photos and assess them at the end.
-
-{{<h2 class="medium-weight" text="Feedback">}}
-One of my teammates, [Sheena](scheng.ca), pointed out that the "upload" and "camera" option together felt redundant.
-
-We also noted that it was sometimes hard to find the home button -- so we decided for the final version to anchor the menu to the same locations. 
-
-{{<br>}}
-{{<br>}}
-{{<br>}}
-{{<br>}}
-{{<br>}}
-
-
-A closer look at the frames and prototyping:
-{{<br>}}
-{{<br>}}
-
-![Food Baby opp](/images/foodbaby_flow.png#banner)
-
-{{<br>}}
-{{<br>}}
-
-## High-Fidelity Prototype
-
-Heading into the final stages of the app experience, we wanted to make sure we addressed the pain points we had gathered. So we revisited these questions:
-
-
-{{<br>}}
->
-> 1. What do expecting mothers need to know in order to make informed decisions about food?
->
-> 2. What are similar applications out there already doing?
->
-> 3. Which features should be included or discarded?
+We used this to inform the descriptions and structure of the form.
 
 {{<br>}}
 
-The first point was, what do expecting mothers need to know for food? We focused on displaying information that was quick and accurate to interpret. For example, the colour coded lists gave a definitive decision for each food. Specifically for yellow-listed foods (which meant that the food could be consumed, but with restrictions) the restrictions are clearly displayed next to the option. Specifically, the questions that were the focus of the information (after expanding into the foods) can be summarized by these questions:
+<!-- ![Food Baby opp](/images/event_stats.png#float-left) -->
 
-* overall, is this good or bad for me?
-* in what amounts should I consume this food?
-* what are the specific health benefits/detriments?
-* what have other moms experienced cooking/consuming this food? (are there other side effects)
+
+## Low & High Fidelity Prototype
+
+I am in the process of updating my site. In the meantime, here is a gallery of some of my high-fidelity work for this project:
+
+![Food Baby opp](/images/mobile.png#banner)
+![Food Baby opp](/images/desktop.png#banner)
 
 
 {{<br>}}
 {{<br>}}
-
 ## What was the impact of this form?
 
-Although we were able to make many of the designs for the developer team to readily implement, I left the team before the web form was pushed out and readily usable.
+Although we were able to make many of the designs for the developer team while still on the team, I left the team before the web form was pushed out and readily usable to pursue other goals of mine. 
 
-However, what I do know is that, as of today (October 16, 2021), UBC Biztech uses the form to register students for their many events.
+However, we know that as of today (October 16, 2021), UBC Biztech uses the form to register students for their many events. With over 150+ members and multiple events throughout the year garnering up to 250 students, Biztech's web form is used by students and faculty alike.
 
-
-
-## What was the impact of this form?
 
 Still curious? Here's more:
 {{<br>}}
