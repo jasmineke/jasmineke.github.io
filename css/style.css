@@ -13,7 +13,7 @@
     --dark-dark-accent: var(--pine-green);
 
     /* Measurements */
-    --container-width: 900px;
+    --container-width: 800px;
     --max-width: 700px;
     --border-radius: 3px;
     --font-size: 1rem;
@@ -62,6 +62,14 @@
 
 .normal-weight {
     font-weight: normal;
+}
+
+.medium-weight {
+    font-weight: 500;
+}
+
+.bold-weight {
+    font-weight: bold;
 }
 
 /* Universal tags */
@@ -163,8 +171,10 @@ div.navbar {
     background-repeat: no-repeat;
     background-position: center center; 
     
-    border: 1px solid var(--dark-gray);
+    /* border: 1px solid var(--dark-gray); */
     border-radius: var(--border-radius);
+
+    box-shadow: 0px 4px 30px rgba(90, 80, 64, 0.1);
     
     flex: 1 1 0px;
 }
