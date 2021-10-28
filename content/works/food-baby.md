@@ -122,21 +122,17 @@ Heading into the final stages of the app experience, we wanted to make sure we a
 
 {{<br>}}
 
-
-
-
-### 1. What do expecting mothers need to know to make informed decisions about food?
-
-To try to tackle this problem, we focused on displaying information that was quick and accurate to interpret. 
-
-For example, the colour coded lists gave a definitive decision for each food. Specifically for yellow-listed foods (which meant that the food could be consumed, but with restrictions) the restrictions are clearly displayed next to the option. 
-{{<br>}}
 {{<br>}}
 ![Food Baby app proto1](/images/Frame_1.png#banner)
 {{<br>}}
 {{<br>}}
+### 1. What do expecting mothers need to know to make informed decisions about food?
 
->Specifically, the questions that were the focus of the information (after expanding into the foods) can be summarized by these questions:
+To try to tackle this problem, we focused on displaying information that was quick and easy to interpret. We also focused on the types of information a mom might want to know, and further places and resources they could use to get more info. 
+
+One example of "easy interpretation" was the **colour coded** lists. 
+
+>More specifically, the questions that were the focus of the information (after expanding one of the items on the list) can be summarized by these questions:
 >
 >* overall, is this good or bad for me?
 >* in what amounts should I consume this food?
@@ -147,10 +143,32 @@ For example, the colour coded lists gave a definitive decision for each food. Sp
 Although we couldn't implement and fully prototype every feature, we prioritized the important features by seeing which bits of data answered the most information, while taking up the smallest amount of screen real estate. This part was never realized in the 24 hours we had, however, the prototype shows a clear map we could possibly take in the future.
 {{<br>}}
 {{<br>}}
-{{<br>}}
+
 ![Food Baby app proto2](/images/Frame_2.png#banner)
 
+{{<br>}}
 
+### 2. What are similar applications out there already doing?
+
+For this question, we answered it by looking into the existing pregnancy apps out there. We noticed a few things:
+>
+>* most apps prioritized tracking and monitoring of the baby (responsive vs. proactive)
+>* many combined several functions (size of baby, pregnancy facts, kick counters, etc.)
+>
+First off, we recognized that pregnancy is a lot more nuanced than an app can completely encapsulate. Knowing this, we didn't seek to emulate other apps, and instead tackled more diet specific problems. Even then, there were still things we didn't completely address, such as trimester-specific diets, certain myths around diets and food, as well as how diet can vary depending on fitness, body metabolism and more. These are definitely areas that would be interesting to explore.
+
+Then, we looked at another field of apps: grocery apps. Here we noticed that simplifying into abstract tags was a very quick and easy way of categorizing foods that could also improve the efficiency of finding foods. Due to time constraints, we decided that having a basic search should be prioritized over tags, so we don't have much work on this, but this is definitely another area to work on.
+
+{{<br>}}
+{{<br>}}
+### 3. Which features should be included or can be cut down?
+Finally, we looked at if there was anything we could exclude, so we can reach our goal of pushing out an app. Some of these features were:
+>
+>* tags, in favour of getting a basic search done
+>* a page for each food item, in favour of a drop down with more simplified info
+>* a profile page (time constraints)
+>* user survey, for current diet, trimester, etc. information (time constraints)
+>
 
 
 {{<br>}}
@@ -158,10 +176,28 @@ Although we couldn't implement and fully prototype every feature, we prioritized
 
 ## What is the impact of Food Baby?
 
-Because this was a 24 hour hackathon, it might feel like there was little impact to be made from a semi-working mobile webapp. Although there wasn't any testing done with pregnant moms, our team was able to learn lots. We had to consider multiple aspects because we were making this from the ground up, for example: on how we handle design hand-off and also my personal workflow for future mobile designs.
+Because this was a 24 hour hackathon, many people felt like there was little impact to be made from a semi-working mobile webapp. However, I wanted to point out that, although there wasn't any testing done with pregnant moms, our team was able to learn lots from this experience. We had to consider multiple aspects because we were making this from the ground up, for example: on how we handle design hand-off and make personal workflows faster for future mobile designs.
 
-First, my personal workflow. I realized that often, when diving into a design we weren't asking the right **questions**. 
+>**Problem 1:** First, let's talk about design workflow. I realized that often, when diving into a design we weren't asking the most ?productive **questions**. Often, the real points of contention were when developers could not execute on a certain feature. 
+>
+>**Solution 1:** For future designs, asking the questions of "what limitations does this design have for developers vs. designers?" and balancing that tradeoff is more important than having a consensus on the colour and placement of aesthetics.
 
+>**Problem 2:** Second, when we handed off, there wasn't a clear structure to which key frames we needed first to get a minimum viable product. From there, we also lacked a really clear framework on how to build details into each step. Our process felt more linear, implementing the first frames first, and then so on (for front end). 
+>
+>**Solution 2:** In the future, before diving in, I hope to approach our workflows at a higher level, and look at the frames that are essential to the user-flow story. Then, diving in to hammer out the details, rather than working on prototypes in a strictly linear timeline.
+
+In the end, I took away many key design lessons from this high-pressure but also high-reward experience. And, as a team, we also earned an unexpected **1st place for Best Use of Google Cloud**!
+
+
+
+Still curious? Here's more:
+{{<br>}}
+[home](/)
+{{<br>}}
+[blog](/posts)
+{{<br>}}
+[about](/about)
+{{<br>}}
 
 <!-- I wanted to create a safe space for to-be-moms, that felt easy to use but also warm and welcoming. I first started by creating a stylescape and gathering reference material from Dribbble, Behance and my own stash of references. 
 

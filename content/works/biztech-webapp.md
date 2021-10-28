@@ -5,52 +5,58 @@ tags: ["development"]
 draft: false
 ---
 
-![Web app mockup](/images/bp-title.png#banner)
-{{<h1 class="right-justify color-dark-accent" text="Biztech Webapp Event Form">}}
-{{<span class="right-justify color-dark-accent" text="For 150+ members registering for events">}}
+![Web app mockup](/images/webapp.png#banner)
+{{<h1 class="right-justify color-black" text="Biztech Webapp Event Form">}}
+{{<span class="right-justify color-black" text="For 150+ members registering for events">}}
 
 {{<br>}}
 {{<br>}}
 
 > ## Why did we make this app?
 > 
-> Our team at Biztech was organizing events using google forms, 
+> Our team at Biztech was organizing events using google forms, spreadsheets, Hopin.to, etc. and we noticed that there was an opportunity to make this process **less cluttered** and **more efficient**. Our developer team jumped on this opportunity, and over the course of months, we worked together to create a fully-realized in-house webform.
 >
-> We thought of the pregnant women that go to get groceries, sometimes unsure about which foods to get. Would this be harmful? Can I eat this much?
->
-> We wanted to create an app that could be a helping hand **for future moms braving the grocery aisles**.
 >
 > **Duration**: {{<span class="color-dark-accent" text="4 months">}}\
 > **Tools**: {{<span class="color-dark-accent" text="Figma">}}\
 > **Team**: {{<span class="color-dark-accent" text="Ryan Ye, Shannon Kao, Patricia Ang">}}\
 > **Role**: {{<span class="color-dark-accent" text="UI/UX Designer and Design Lead">}}
 
-![Food Baby app mockup](/images/aether.png#half-banner)
+{{<br>}}
+{{<br>}}
+![Our team](/images/biztech-team.png#banner)
 
 {{<br>}}
 {{<br>}}
 
 ## Who was using this form?
 
-Considering our member base, we wanted to look at our events from two sides. For example, our users were either execs or people attending our events. 
+>
+> 1. Students 
+>
+> 2. Executives
+>
+> 3. Sponsors
+>
+> 4. Faculty/Professionals
+>
+> 5. Out-of-Province Students/Visitors
+>
 
-Attendees
+Considering these were the majority of our member base, we wanted to look at our events from two sides. One side being, our attendees registering for events, and the other being executives.
+
+### Attendees
 There were multiple groups of attendees, since we had faculty, students as well as out-of-province visitors who would come to attend.
 From the previous year (2019/2020), we collected data every time a student signed up for forms. During the summer, we compiled this data and analyzed for who attended our events, why, and how they found out about it.
 
 We found that most of what we were getting our sign ups from was Facebook.
 
-Summed the different categories into 
 
-
-
-Execs
+### Execs
 For the organizing team, there were concerns about our event forms being spread across multiple different tools. This created a lot of friction when we registered attendees because we would go between different Google spreadsheets to cross check attendance and registration.
 
 
 
-
-{{<br>}}
 {{<br>}}
 
 ## How we used the database we had to optimize the form.
@@ -141,10 +147,19 @@ The first point was, what do expecting mothers need to know for food? We focused
 
 Although we were able to make many of the designs for the developer team to readily implement, I left the team before the web form was pushed out and readily usable.
 
-However, what I do know is that, as of today (October 16, 2020), UBC Biztech uses the form to register students for their many events.
+However, what I do know is that, as of today (October 16, 2021), UBC Biztech uses the form to register students for their many events.
 
 
 
 ## What was the impact of this form?
+
+Still curious? Here's more:
+{{<br>}}
+[home](/)
+{{<br>}}
+[blog](/posts)
+{{<br>}}
+[about](/about)
+{{<br>}}
 
 

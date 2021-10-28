@@ -43,6 +43,10 @@
     color: var(--accent);
 }
 
+.color-black {
+    color: var(--font-color);
+}
+
 .color-dark-accent {
     color: var(--dark-accent);
 }
@@ -97,7 +101,7 @@ a:hover {
 }
 
 hr {
-    border-bottom: 1px solid var(--font-color);
+    border-bottom: 1px solid var(--hojicha-green);
     border-top: none;
 }
 
