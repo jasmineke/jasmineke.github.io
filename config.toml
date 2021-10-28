@@ -4,13 +4,15 @@ title = "Jasmine Ke"
 theme = "hojicha"
 disableKinds = ["taxonomy", "term"]
 
+
+
 [params]
     author = "Jasmine Ke"
     description = "My personal site!"
     
     works = [
         {title = "Food Baby", desc = "How can we create an app that helps pregnant women make informed decisions on food?", image = "../images/foodbaby_cover.png", url = "/works/food-baby"},
-        {title = "Biztech Webapp", desc = "How do we simplify the workflow for club executives who have to use multiple platforms for event registration?", image = "../images/foodbaby_cover.png", url = "/works/biztech-webapp"},
+        {title = "Biztech Webapp", desc = "How do we simplify the workflow for club executives who have to use multiple platforms for event registration?", image = "../images/bp.png", url = "/works/biztech-webapp"},
         {title = "Blueprint", desc = "How can we craft a place where students can see updated info and register for UBC's largest tech conference?", image = "../images/foodbaby_cover.png", url = "/works/blueprint"}
     ]
 

@@ -5,4 +5,4 @@ tags: ["development"]
 draft: false
 ---
 
-bleuprintsu
+Hi! Thanks for dropping by, this case study is still a work in progress...
