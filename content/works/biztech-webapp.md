@@ -84,11 +84,13 @@ I am in the process of updating my site. In the meantime, here is a gallery of s
 
 Although we were able to make many of the designs for the developer team while still on the team, I left the team before the web form was pushed out and readily usable to pursue other goals of mine. 
 
-However, we know that as of today (October 16, 2021), UBC Biztech uses the form to register students for their many events. With over 150+ members and multiple events throughout the year garnering up to 250 students, Biztech's web form is used by students and faculty alike.
+Today (October 16, 2021), UBC Biztech uses the form to register students for their many events. With over 150+ members and multiple events throughout the year garnering up to 250 students, Biztech's web form is used by students and faculty alike.
+
+We also reduced the amount of tools used by the team, replacing google forms and other form types (like Luma and Hopin.to) with this Biztech form.
 
 
-Still curious? Here's more:
-{{<br>}}
+**Still curious? Here's more:**
+
 [home](/)
 {{<br>}}
 [blog](/posts)

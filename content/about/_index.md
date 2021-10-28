@@ -1,6 +1,6 @@
 
 +++
-title = "about"
+title = "About"
 layout = "index"
 weight = 1
 +++
@@ -19,6 +19,7 @@ This year will be my fourth year at the University of British Columbia studying 
 
 Although I enjoy programming from time to time, I decided on a career in design when I could see myself asking more and more questions about the people we design for. 
 
+{{<br>}}
 What is the purpose of software, and who are the people behind it (on both ends)? 
 
 Understanding the stories of these people and continuously improving on the craft of telling their stories is something I'd like to keep doing.

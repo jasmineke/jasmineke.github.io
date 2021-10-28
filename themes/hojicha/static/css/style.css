@@ -72,6 +72,10 @@
     font-weight: 500;
 }
 
+.semi-bold-weight {
+    font-weight: 600;
+}
+
 .bold-weight {
     font-weight: bold;
 }

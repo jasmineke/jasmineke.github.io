@@ -190,15 +190,14 @@ In the end, I took away many key design lessons from this high-pressure but also
 
 
 
-Still curious? Here's more:
-{{<br>}}
+**Still curious? Here's more:**
+
 [home](/)
 {{<br>}}
 [blog](/posts)
 {{<br>}}
 [about](/about)
 {{<br>}}
-
 <!-- I wanted to create a safe space for to-be-moms, that felt easy to use but also warm and welcoming. I first started by creating a stylescape and gathering reference material from Dribbble, Behance and my own stash of references. 
 
 ![Food Baby opp](/images/food-style.png#banner)
