@@ -5,34 +5,34 @@
     --jasmine-green: #AEBF99;
     --hojicha-green: #899D70;
     --pine-green: #6E8551;
-
+    
     --bg-color: var(--light-gray);
     --font-color: var(--dark-gray);
     --accent: var(--jasmine-green);
     --dark-accent: var(--hojicha-green);
     --dark-dark-accent: var(--pine-green);
-
+    
     /* Measurements */
     --container-width: 800px;
     --max-width: 700px;
     --border-radius: 3px;
     --font-size: 1rem;
-
+    
     --transition-duration: 0.3s
-}
+}    
 
 @font-face {
     font-family: "Aeonik";
-    src: url("../fonts/Aeonik-Regular.otf") format("opentype");
+    src: url("/fonts/Aeonik-Regular.otf") format("opentype");
 }
 @font-face {
     font-family: "Aeonik";
     font-weight: bold;
-    src: url("../fonts/Aeonik-Bold.otf") format("opentype");
+    src: url("/fonts/Aeonik-Bold.otf") format("opentype");
 }
 @font-face {
     font-family: "Benne";
-    src: url("../fonts/Benne-Regular.otf") format("opentype");
+    src: url("/fonts/Benne-Regular.ttf") format("truetype");
 }
 
 .secondary-font {
