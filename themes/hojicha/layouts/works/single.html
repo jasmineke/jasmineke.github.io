@@ -1,5 +1,15 @@
 {{- define "main" -}}
 
 <div id="content">{{ .Content | safeHTML }}</div>
-
+<div class="works-box">
+    <!-- To add a new "works-box", add a new entry to the params.works section of config.toml in the project root directory -->
+    {{ range $.Site.Params.works }}
+    <div class="works-box-item-cover" style="background-image: url({{ .image }})">
+        <div class="works-box-item" onclick="location.href='{{ .url }}'">
+            <h2 class="color-dark-dark-accent normal-weight">{{ .title }}</h2>
+            <span class="color-light">{{ .desc }}</span>
+        </div>
+    </div>
+    {{ end }}
+</div>
 {{- end -}}

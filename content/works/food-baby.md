@@ -12,7 +12,7 @@ draft: false
 {{<br>}}
 {{<br>}}
 
-> # Why did we make this app?
+> ## Why did we make this app?
 >
 > For the to-be-moms around the world, sometimes knowing what is healthy for their baby isn't always clear. Although some foods and drinks like alcohol are easier to identify as harmful, there are also more obscure foods like cheese and chips that are less obvious and sometimes harmful in certain amounts.
 >
@@ -30,7 +30,7 @@ draft: false
 {{<br>}}
 {{<br>}}
 
-# The Lives of To-Be-Moms
+## The Lives of To-Be-Moms
 
 Being a mom, and caring for a child for the first time can be difficult and sometimes full of the unknown. With physical changes and fluctuations in hormones affecting mood and sometimes mental well-being, it can be really difficult to balance all of these with other life duties.
 
@@ -39,7 +39,7 @@ Around **358 thousand** women gave birth in 2020, according to [Statistics Canad
 {{<br>}}
 {{<br>}}
 
-# Our Road Blocks
+## Our Road Blocks
 
 We didn't have live feedback from moms because of the time constraints of the hackathon. As a consequence, we had to implement quickly and skipped the opportunity to delve deeper. From this, I learned that sometimes, to meet deadlines, extensive research is not always possible. So learning to identify key misconceptions or knowledge gaps is vital to finding pain points more efficiently.
 
@@ -60,7 +60,7 @@ To brainstorm possible pain points and features to the best of our ability, we a
 {{<br>}}
 {{<br>}}
 
-# Low-Fidelity Prototype
+## Low-Fidelity Prototype
 
 After organizing our ideas and refining our features, we set out to create the main user flows for this app: **search** and **upload**.
 
@@ -107,7 +107,7 @@ A closer look at the frames and prototyping:
 {{<br>}}
 {{<br>}}
 
-# High-Fidelity Prototype
+## High-Fidelity Prototype
 
 Heading into the final stages of the app experience, we wanted to make sure we addressed the pain points we had gathered. So we revisited these questions:
 
@@ -173,7 +173,7 @@ Finally, we looked at if there was anything we could exclude, so we can reach ou
 
 {{<br>}}
 {{<br>}}
-# My Team
+## My Team ✨
 I was so lucky to be able to work with such a talented group of developers, and beyond that, just good friends. Because this was our first time ever doing a fully online hackathon, adjusting to being completely online was an interesting challenge!
 
 To combat the lack of human contact, we used **Discord** and stayed on call throughout the hackathon. And so, that gave us a lot more of an environment where we could easily find each other and join each other's voice channels (shout out to Discord for making such a nice place to just convene and organize teams). 
@@ -192,7 +192,7 @@ Overall, for our first online hackathon, we worked really hard. But the things w
 
 {{<br>}}
 {{<br>}}
-# What is the impact of Food Baby?
+## What is the impact of Food Baby?
 
 Because this was a 24 hour hackathon, many people felt like there was little impact to be made from a semi-working mobile webapp. However, I wanted to point out that, although there wasn't any testing done with pregnant moms, our team was able to learn lots from this experience. We had to consider multiple aspects because we were making this from the ground up, for example: on how we handle design hand-off and make personal workflows faster for future mobile designs.
 
@@ -208,14 +208,13 @@ Because this was a 24 hour hackathon, many people felt like there was little imp
 
 In the end, I took away many key design lessons from this high-pressure but also high-reward experience. And, as a team, we also earned an unexpected [**1st place for Best Use of Google Cloud**](https://devpost.com/software/food-baby)!
 
-
-
-**Still curious? Here's more:**
-
-[home](/)
 {{<br>}}
-[blog](/posts)
 {{<br>}}
+
+### Still curious? Here's more:
+
+[home](/)&#8729;
+[blog](/posts)&#8729;
 [about](/about)
 {{<br>}}
 <!-- I wanted to create a safe space for to-be-moms, that felt easy to use but also warm and welcoming. I first started by creating a stylescape and gathering reference material from Dribbble, Behance and my own stash of references. 

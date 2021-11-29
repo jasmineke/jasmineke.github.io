@@ -11,9 +11,9 @@ disableKinds = ["taxonomy", "term"]
     description = "My personal site!"
     
     works = [
-        {title = "Food Baby", desc = "How can we create an app that helps pregnant women make informed decisions on food?", image = "../images/foodbaby_cover.png", url = "/works/food-baby"},
-        {title = "Biztech Webapp", desc = "How do we simplify workflow for club executives?", image = "../images/bp.png", url = "/works/biztech-webapp"},
-        {title = "Blueprint", desc = "How can we update info for UBC's largest tech conference?", image = "../images/bp-cover.png", url = "/works/blueprint"}
+        {title = "Food Baby", desc = "How can we create an app that helps pregnant women make informed decisions on food?", image = "/images/foodbaby_cover.png", url = "/works/food-baby"},
+        {title = "Biztech Webapp", desc = "How do we simplify workflow for club executives?", image = "/images/bp.png", url = "/works/biztech-webapp"},
+        {title = "Blueprint", desc = "How can we update info for UBC's largest tech conference?", image = "/images/bp-cover.png", url = "/works/blueprint"}
     ]
 
 [params.urls]

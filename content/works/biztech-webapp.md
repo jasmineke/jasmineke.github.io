@@ -88,14 +88,15 @@ Today (October 16, 2021), UBC Biztech uses the form to register students for the
 
 We also reduced the amount of tools used by the team, replacing google forms and other form types (like Luma and Hopin.to) with this Biztech form.
 
-
-**Still curious? Here's more:**
-
-[home](/)
 {{<br>}}
-[blog](/posts)
 {{<br>}}
+### Still curious? Here's more:
+
+
+[home](/)&#8729;
+[blog](/posts)&#8729;
 [about](/about)
-{{<br>}}
+
+
 
 

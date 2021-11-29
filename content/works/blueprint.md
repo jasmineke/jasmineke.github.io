@@ -5,4 +5,5 @@ tags: ["development"]
 draft: false
 ---
 
-Hi! Thanks for dropping by, this case study is still a work in progress...
+# Hi! 👋🏻
+Thanks for dropping by, this case study is still a work in progress... meanwhile here are some other works!
