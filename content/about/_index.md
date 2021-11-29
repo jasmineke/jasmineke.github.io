@@ -17,9 +17,7 @@ This year will be my fourth year at the University of British Columbia studying 
 
 **Why design when your major is CS?** 
 
-Although I enjoy programming from time to time, I decided on a career in design when I could see myself asking more and more questions about the people we design for. 
+Although I enjoy programming from time to time, I decided on a career in design when I could see myself asking more and more questions about the people we design for. What is the purpose of software, and who are the people behind it (on both ends)? 
 
 {{<br>}}
-What is the purpose of software, and who are the people behind it (on both ends)? 
 
-Understanding the stories of these people and continuously improving on the craft of telling their stories is something I'd like to keep doing.

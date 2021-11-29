@@ -12,7 +12,7 @@ draft: false
 {{<br>}}
 {{<br>}}
 
-> ## Why did we make this app?
+> # Why did we make this app?
 >
 > For the to-be-moms around the world, sometimes knowing what is healthy for their baby isn't always clear. Although some foods and drinks like alcohol are easier to identify as harmful, there are also more obscure foods like cheese and chips that are less obvious and sometimes harmful in certain amounts.
 >
@@ -30,7 +30,7 @@ draft: false
 {{<br>}}
 {{<br>}}
 
-## The Lives of To-Be-Moms
+# The Lives of To-Be-Moms
 
 Being a mom, and caring for a child for the first time can be difficult and sometimes full of the unknown. With physical changes and fluctuations in hormones affecting mood and sometimes mental well-being, it can be really difficult to balance all of these with other life duties.
 
@@ -39,7 +39,7 @@ Around **358 thousand** women gave birth in 2020, according to [Statistics Canad
 {{<br>}}
 {{<br>}}
 
-## Our Road Blocks
+# Our Road Blocks
 
 We didn't have live feedback from moms because of the time constraints of the hackathon. As a consequence, we had to implement quickly and skipped the opportunity to delve deeper. From this, I learned that sometimes, to meet deadlines, extensive research is not always possible. So learning to identify key misconceptions or knowledge gaps is vital to finding pain points more efficiently.
 
@@ -60,7 +60,7 @@ To brainstorm possible pain points and features to the best of our ability, we a
 {{<br>}}
 {{<br>}}
 
-## Low-Fidelity Prototype
+# Low-Fidelity Prototype
 
 After organizing our ideas and refining our features, we set out to create the main user flows for this app: **search** and **upload**.
 
@@ -107,7 +107,7 @@ A closer look at the frames and prototyping:
 {{<br>}}
 {{<br>}}
 
-## High-Fidelity Prototype
+# High-Fidelity Prototype
 
 Heading into the final stages of the app experience, we wanted to make sure we addressed the pain points we had gathered. So we revisited these questions:
 
@@ -173,20 +173,40 @@ Finally, we looked at if there was anything we could exclude, so we can reach ou
 
 {{<br>}}
 {{<br>}}
+# My Team
+I was so lucky to be able to work with such a talented group of developers, and beyond that, just good friends. Because this was our first time ever doing a fully online hackathon, adjusting to being completely online was an interesting challenge!
 
-## What is the impact of Food Baby?
+To combat the lack of human contact, we used **Discord** and stayed on call throughout the hackathon. And so, that gave us a lot more of an environment where we could easily find each other and join each other's voice channels (shout out to Discord for making such a nice place to just convene and organize teams). 
+
+From experience, we also knew that there would be two different teams: front end and back end. And so we separated separate text and voice channels for these two teams. 
+>
+>Front-end was Tian Tian and me.
+>
+>Back-end was Sheena and Michelle!
+>
+We would also have a group sync everytime there was a major feature that needed to be updated, and did this often, to do a reality check between features and link up our designs and front-facing features to the Google Cloud API we were using.
+
+Overall, for our first online hackathon, we worked really hard. But the things we learned and the idea we created was well worth it.
+
+
+
+{{<br>}}
+{{<br>}}
+# What is the impact of Food Baby?
 
 Because this was a 24 hour hackathon, many people felt like there was little impact to be made from a semi-working mobile webapp. However, I wanted to point out that, although there wasn't any testing done with pregnant moms, our team was able to learn lots from this experience. We had to consider multiple aspects because we were making this from the ground up, for example: on how we handle design hand-off and make personal workflows faster for future mobile designs.
 
->**Problem 1:** First, let's talk about design workflow. I realized that often, when diving into a design we weren't asking the most ?productive **questions**. Often, the real points of contention were when developers could not execute on a certain feature. 
+### 1. Asking more pointed questions about implementation to devs.
+>**Problem:** I realized that often, when diving into a design we weren't asking the most productive questions. Often, the real points of contention were when developers could not execute on a certain feature, not on their opinions on the aesthetics/usability of certain design elements.
 >
->**Solution 1:** For future designs, asking the questions of "what limitations does this design have for developers vs. designers?" and balancing that tradeoff is more important than having a consensus on the colour and placement of aesthetics.
+>**Solution:** For future designs, asking the questions of "what limitations does this design have for developers vs. designers?" and balancing that tradeoff is more important than having a consensus on the colour and placement of aesthetics.
 
->**Problem 2:** Second, when we handed off, there wasn't a clear structure to which key frames we needed first to get a minimum viable product. From there, we also lacked a really clear framework on how to build details into each step. Our process felt more linear, implementing the first frames first, and then so on (for front end). 
+### 2. Prioritizing key features over details.
+>**Problem:** When we handed off, there wasn't a clear structure to which key wire-frames we needed first to get a minimum viable product. Because of that, we just defaulted to organizing everything chronologically. 
 >
->**Solution 2:** In the future, before diving in, I hope to approach our workflows at a higher level, and look at the frames that are essential to the user-flow story. Then, diving in to hammer out the details, rather than working on prototypes in a strictly linear timeline.
+>**Solution:** In the future, before diving in, I hope to approach our workflows at a higher level, and look at the frames that are essential to the user-flow story. Then, diving in to hammer out the details, rather than working on prototypes in a strictly linear timeline. Handling things in order of the key important frames, then 
 
-In the end, I took away many key design lessons from this high-pressure but also high-reward experience. And, as a team, we also earned an unexpected **1st place for Best Use of Google Cloud**!
+In the end, I took away many key design lessons from this high-pressure but also high-reward experience. And, as a team, we also earned an unexpected [**1st place for Best Use of Google Cloud**](https://devpost.com/software/food-baby)!
 
 
 
