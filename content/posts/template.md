@@ -7,9 +7,9 @@ draft: False
 ## Team Culture
 Make sure your team values design. And I mean **values** design. 
 
-On one hand, there are some people who outwardly say they value design. And it is a very easy thing to say. However, when someone is not listening to your design decisions, **all hell can break loose**. And I'm not just talking about hell for you, my friend. It can be hell for everyone on the team: developers, engineers, leaders.
+On one hand, there are some people who outwardly say they value design. And it is a very easy thing to say, so understanding what they really mean gives more clarity. However, when someone is truly not listening to your design decisions, **all hell can break loose**. And I'm not just talking about hell for you, my friend. It can be hell for everyone on the team: developers, engineers, leaders.
 
-When someone doesn't value our decisions, it's often because they don't see the importance of it --> or understand why it should be a priority. Explaining why and how good design can be a carrier for the functions we create (and can shape an entire experience for someone using it) can be difficult during a 24-hour hackathon -- Especially since values are something deeper and usually need to be addressed in a way with more care and understanding, than an explanation that might be diluted by pressure from having to complete an entire app in 1 day.
+When someone doesn't value our decisions, it's often because they **don't see the importance of it** --> or understand why it should be a priority. Explaining why and how good design can be a carrier for the functions we create (and can shape an entire experience for someone using it) can be difficult during a 24-hour hackathon -- Especially since values are something deeper and usually need to be addressed in a way with more care and understanding, than an explanation that might be diluted by pressure from having to complete an entire app in 1 day.
 
 Not to mention, the stress that the team may feel from the conflict between you and the person who might disagree can be harmful. From the standpoint of the person who may not value design, they can feel pressured and under a lot of stress to conform -- or that their values are somehow "less" in a way. And vice versa for you, if the scales are tipped in the other way. Feeling that division of having a "right" or "wrong" value can be very divisive and demoralizing for anyone. 
 
@@ -17,9 +17,9 @@ And so, in order to avoid this, it's important to understand your team culture a
 
 One very simple and direct question you may ask your team is: How would you react if there was a design decision I made that you absolutely despised?
 
-If they come from an essence of trying to understand why you've made that decision, and being curious, please give me their contact numbers and LinkedIn, I might want to hire them for my next hackathon ;)
+If they come from an essence of trying to understand why you've made that decision, and being curious, please give me their contact numbers and LinkedIn, I might want to team with them for my next hackathon ;)
 
-On the other hand, if they are shutting it down without an attempt of delving a bit deeper into why or how they got there (or even how you got there), it might be up to you to calm down. Maybe take a deeeeep breathe and settle your own feelings that might be stirred from their strong reaction. And ask them why.
+On the other hand, if they are shutting it down without an attempt of delving a bit deeper into why or how they got there (or even how you got there), it might be up to you to calm down. Maybe take a **deeeeep breathe** and settle your own feelings that might be stirred from their strong reaction. And ask them why.
 
 
 ## Idea
