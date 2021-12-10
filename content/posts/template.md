@@ -27,6 +27,8 @@ So how do you know your idea is good? Well, before we know it's good, one **big 
 
 What I've learned from many hackathons, at least from our experiences as a team, is that a lot of the time there will be moments when we think we've hit the jackpot for an idea -- however, that idea (most of the time) has been done before.
 
+[insert research source I have read before but don't remember where]
+
 Do not fret though! Just because it's been done doesn't mean that there is no value there to be tapped into.
 
 To be continued...
