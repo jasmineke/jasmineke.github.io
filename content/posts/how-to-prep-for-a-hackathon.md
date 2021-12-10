@@ -13,7 +13,7 @@ When someone doesn't value our decisions, it's often because they **don't see th
 
 Not to mention, the stress that the team may feel from the conflict between you and the person who might disagree can be harmful. From the standpoint of the person who may not value design, they can feel pressured and under a lot of stress to conform -- or that their values are somehow "less" in a way. And vice versa for you, if the scales are tipped in the other way. Feeling that division of having a "right" or "wrong" value can be very divisive and demoralizing for anyone. 
 
-And so, in order to avoid this, it's important to understand your team culture and make it clear that design is as much of a priority as developing features is. This is not to say it should be prioritized above anything else. If it is to say something, it's that design is just as important as development. And that they should be treated with equal consideration when balancing a project.
+And so, in order to avoid this, it's important to understand your team culture and make it clear that design is as much of a priority as developing features is **before you start any hackathon**. This is not to say it should be prioritized above anything else. If it is to say something, it's that design is just as important as development. And that they should be treated with equal consideration when balancing a project.
 
 One very simple and direct question you may ask your team is: How would you react if there was a design decision I made that you absolutely despised?
 
@@ -29,7 +29,9 @@ What I've learned from many hackathons, at least from our experiences as a team,
 
 [insert research source I have read before but don't remember where]
 
-Do not fret though! Just because it's been done doesn't mean that there is no value there to be tapped into.
+In the very rare chance you've found a niche or a problem that needs solving: you got this! Take it and roll with it! I'm so proud of you.
+
+But for the rest of us, do not fret! Just because and idea's been done doesn't mean that there is no value there to be tapped into.
 
 To be continued...
 
