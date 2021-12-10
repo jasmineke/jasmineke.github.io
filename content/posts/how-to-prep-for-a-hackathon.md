@@ -1,6 +1,6 @@
 ---
 title: "How to Prep for a Hackathon as a Designer"
-date: 2021-09-24T19:20:44-07:00
+date: 2021-09-24
 draft: False
 ---
 
@@ -32,3 +32,5 @@ What I've learned from many hackathons, at least from our experiences as a team,
 Do not fret though! Just because it's been done doesn't mean that there is no value there to be tapped into.
 
 To be continued...
+
+snek :>
