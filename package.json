@@ -1,0 +1,23 @@
+{
+  "name": "jasmineke.github.io",
+  "version": "1.0.0",
+  "description": "Thanks for stopping by! This site was made with Hugo and Yifei(not a site-generator).",
+  "main": "script.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmineke/jasmineke.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jasmineke/jasmineke.github.io/issues"
+  },
+  "homepage": "https://github.com/jasmineke/jasmineke.github.io#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  }
+}
