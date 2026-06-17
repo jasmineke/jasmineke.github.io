@@ -45,25 +45,35 @@ html, body {
     min-height: 100%;
 }
 
-/* Paper-like background — one fixed full-viewport layer holding (top to bottom):
-   fine grain → soft top highlight → warm bottom-corner shadow → base paper tone.
-   Kept behind content via z-index:-1; the base color lives on this layer (not on
-   body) so it doesn't paint over the layer. The grain is baked into the alpha
-   channel as sparse dark specks, so it overlays the warm tone without needing
-   mix-blend-mode (which renders nothing on a negative z-index element). */
-body::before {
-    content: "";
+/* Blocky "colored-in" blue gradient background (inspired by paper.design).
+   A full-viewport <canvas> (injected by gradient.js) renders a grid of little
+   cells that animate from a pale base to their target blue, staggered, so the
+   gradient appears to get painted in block by block — then keeps drifting. */
+body {
+    background-color: #eef3fb;
+}
+
+#gradient-canvas {
     position: fixed;
     inset: 0;
     z-index: -1;
+    display: block;
     pointer-events: none;
-    background-color: var(--bg);
+}
+
+/* Paper grain over the entire gradient — a fixed full-viewport overlay of sparse
+   dark specks (baked into the SVG alpha channel). Sits above the gradient and
+   content so the whole background reads as textured paper. pointer-events:none
+   keeps it click-through. */
+html::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 10;
+    pointer-events: none;
     background-image:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.4' intercept='-0.2'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"),
-        radial-gradient(120% 120% at 50% 0%, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 45%),
-        radial-gradient(140% 140% at 100% 100%, rgba(120, 110, 90, 0.12) 0%, rgba(120, 110, 90, 0) 55%);
-    background-size: 160px 160px, cover, cover;
-    background-repeat: repeat, no-repeat, no-repeat;
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0'/%3E%3CfeComponentTransfer%3E%3CfeFuncA type='linear' slope='0.4' intercept='-0.2'/%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 160px 160px;
 }
 
 a {
@@ -71,8 +81,10 @@ a {
     text-decoration: none;
 }
 
-/* Layout */
+/* Layout — content sits directly on the full-bleed gradient (no paper island). */
 .page {
+    position: relative;
+    z-index: 1;
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 80px 24px 120px;
