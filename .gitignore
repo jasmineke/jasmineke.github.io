@@ -6,3 +6,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Local preview helper / throwaway screenshots
+shot.mjs
+cart-editor-preview.png
